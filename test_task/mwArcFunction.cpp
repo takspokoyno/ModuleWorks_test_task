@@ -38,3 +38,4 @@ mwArcFunction::point3d mwArcFunction::Evaluate( const double t ) const
 
 	return retValue;
 }
+
